@@ -21,9 +21,9 @@ Your token is what you use to log the bot in.
  * If you followed the stepts correctly your config file should now look like this:
   ```js 
   {
-  "token": "NTQ3MTIyNTgwNTk5ODY1MzY5.D0yLIA.x5FNrMBBFA4T36YggZhKFUtblIQ",
+  "token": "Your discord token",
   "prefix": "-",
-   "devID": "your discord id"
+   "devID": "Your discord id"
    }
   ```
   * You may now save the config and move the the installation process.
