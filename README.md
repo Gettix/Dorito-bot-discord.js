@@ -44,7 +44,7 @@ Your token is what you use to log the bot in.
 8. Test the bot to see if it works by typing -ping and if the command works then you have completed all the steps correctly.
 ***If you want to cosntantly invite the bot to servers keep the link that the permission calculator generated***
 
-# :D
+# Well Done!
 You now have a self hosted working bot on your server!
 
 ## 24/7 Hosting:
