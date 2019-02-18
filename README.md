@@ -1,4 +1,4 @@
-# Discord.js-Doritos
+# Discord.js-Dorito-bot
 A multipurpose Discord bot with many NSFW and fun commands as well as utility and moderation. 
 * Go to [https://doritobot.glitch.me/#cmds](https://doritobot.glitch.me/#cmds) For a full command list.
 ## Getting your credentials:
