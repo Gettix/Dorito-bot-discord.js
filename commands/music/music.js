@@ -13,7 +13,7 @@ const client = new Bot();
 var randomhex = '#'+Math.floor(Math.random()*16777215).toString(16);
 
 Music.start(client, {
-  youtubeKey: "AIzaSyBzFfJ-Ng1zBs0C4EH4OPkEhxd6TEOIlnw",
+  youtubeKey: "",
   botPrefix: '-', // Prefix for the commands.
   helpCmd: 'mhelp',  
   global: false,            // Non-server-specific queues.
