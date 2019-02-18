@@ -1,6 +1,6 @@
 const Discord = require('discord.js')
 const osu = require('node-osu');
-const api = new osu.Api("95206b2b9ea61afbc45117d5831c1ff08bc4cf81" , {
+const api = new osu.Api("" , {
     notFoundAsError: true,
     completeScores: false 
 })
