@@ -55,4 +55,4 @@ Follow this [guide](https://anidiots.guide/other-guides/hosting-on-glitch) if yo
 
 [**An Idiot's Guide: Hosting on Glitch**](https://anidiots.guide/other-guides/hosting-on-glitch)
 
-
+> This Bot was made by [Aaronidk/aaronokiay](https://doritobot.glitch.me).
