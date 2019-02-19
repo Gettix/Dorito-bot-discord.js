@@ -35,7 +35,7 @@ Your token is what you use to log the bot in.
 
 ## How to install:
 1. Install node.js at https://nodejs.org/en/
-2. Double click the install.bat file and wait for everything to install.
+2. Double click the **install.bat** file and wait for everything to install.
 3. Once everything has installed click **Start Bot.bat** .
 4. Wait for everything to load and the bot should now be up and running.
 
