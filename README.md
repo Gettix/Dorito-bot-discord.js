@@ -53,6 +53,10 @@ Your token is what you use to log the bot in.
 # Well Done!
 You now have a self hosted working bot on your server!
 
+# troubleshooting
+If the music commands do not work then it is because FFMPEG was not installed.
+You can find many videos on Youtube showing how to install FFMPEG. Just search up discord.js FFMPEG on Youtube
+
 ## 24/7 Hosting:
 
 If you want to 24/7 host this bot for free I suggest using [Glitch.com](https://glitch.com)
