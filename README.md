@@ -1,6 +1,10 @@
 # Discord.js-Dorito-bot
 A multipurpose Discord bot with many NSFW and fun commands as well as utility and moderation. 
 * Go to [https://doritobot.glitch.me/#cmds](https://doritobot.glitch.me/#cmds) For a full command list.
+
+# [Invite the bot if you don't want to follow all these steps](https://doritobot.glitch.me)
+
+# **Bot installation guid**
 ## Getting your credentials:
 * Go to the [Discord Developer Portal](https://discordapp.com/developers/applications/)
 * Make a new application.
